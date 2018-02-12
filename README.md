@@ -17,3 +17,4 @@ The task of the project is to develop a social image description platform on des
 4.	Design a user interface for uploading images and predict the description word.
 The final application is expected to be useful for users to upload images belong to the 102 classes and the app will predict the label to describe the image.
 
+The dataset Caltech101 is available by public: <http://www.vision.caltech.edu/Image_Datasets/Caltech101/>
