@@ -5,6 +5,6 @@ In this project, I will try different algrithms to build a image classication mo
 
 The candidate algrithms are:
 
-CNN from Scratch
-CNN from Transfer Learning
-Bag of Words model combining Supervised Learning and Unsupervised Learning
+### CNN from Scratch
+### CNN from Transfer Learning
+### Bag of Words model combining Supervised Learning and Unsupervised Learning
