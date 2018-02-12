@@ -5,6 +5,15 @@ In this project, I will try different algrithms to build a image classication mo
 
 The candidate algrithms are:
 
-### CNN from Scratch
-### CNN from Transfer Learning
-### Bag of Words model combining Supervised Learning and Unsupervised Learning
+##### CNN from Scratch
+##### CNN from Transfer Learning
+##### Bag of Words model combining Supervised Learning and Unsupervised Learning
+
+In this project I use train a multi-class classifier with Caltech101 dataset to classify images from 102 classes. In addition, the model is supposed to predict an unlabeled images which upload by users and the images should be in one of the 102 classes the model is trained to identify. 
+The task of the project is to develop a social image description platform on desktop, the task involved are the following:
+1.	Download and processes the Caltech101 dataset
+2.	Train a classifier from Caltech101 dataset by different approaches. 
+3.	Evaluate the performance of the model by benchmark and find out the best approach.
+4.	Design a user interface for uploading images and predict the description word.
+The final application is expected to be useful for users to upload images belong to the 102 classes and the app will predict the label to describe the image.
+
